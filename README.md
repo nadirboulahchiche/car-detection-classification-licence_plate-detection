@@ -1,4 +1,4 @@
-# car-detection-classification-licence_plate-detection
+# car-detection-classification-license_plate-detection
 
 As the name suggests this project is a deep learning project containing four deep learning models :
 
