@@ -16,8 +16,14 @@ Bellow you will find how to run this app:
 2. Press the load image button.
 3. Once loaded it should give the car int the photo as a result along with the number plate (if found).
 
+
+
 Datasets used for this project:
+
 Car classification dataset : https://www.kaggle.com/datasets/boulahchichenadir/algerian-used-cars
+
 Car object detection dataset : https://www.kaggle.com/datasets/boulahchichenadir/cars-object-detection
+
 License plate detection dataset : https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
+
 Numbers and characters dataset : https://github.com/quangnhat185/Plate_detect_and_recognize/blob/master/dataset_characters.zip
