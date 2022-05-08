@@ -11,6 +11,7 @@ As the name suggests this project is a deep learning project containing four dee
 Bellow you will find how to run this app:
 
 1. Run main.py you should get this prompt :
+
 ![GUI](https://user-images.githubusercontent.com/95067549/167307089-a1878937-ecd1-434a-bc8d-06e738e0b0e9.PNG)
 
 2. Press the load image button.
