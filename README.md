@@ -6,7 +6,7 @@ As the name suggests this project is a deep learning project containing four dee
 - Car classification.
 - License plate detection.
 - Number plate recognition.
-- All integrated into one GUI (Graphic User Interface) application.
+- All integrated into one GUI (Graphic User Interface) application (made in qt designer).
 
 Bellow you will find how to run this app:
 
